@@ -1,0 +1,5 @@
+{
+  "name": "Markdown & Mermaid Renderer",
+  "description": "An application to upload a ZIP file, browse its contents, and beautifully render Markdown files, including Mermaid diagrams.",
+  "requestFramePermissions": []
+}
